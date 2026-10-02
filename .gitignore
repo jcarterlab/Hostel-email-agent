@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local agent database
+*.db
+
+
+# Microsoft sign-in tokens (secret!)
+token_cache.json
